@@ -1,22 +1,2 @@
-Functional Requirements of HOSTEL MANAGEMENT SYSTEM
-
-1  :  user generate account number.
-
-2 :  user allow the hostel staff members or guardians to scan’s the student’s id and access its profile.
-
-3 : user have permission of renewing the student’s registration every year.
-4 :  user shall generate the users profile containing the following information  users account no, full name ,address, phone no & room no.
-
-5 : user will  change dues status in database according to dues paid or not.
-
-6 : user will allocate rooms to students according to the session or class.
-
-7 : user must  have the details of a mess of a student and stored in a database.
-
-8 : user must allow the warden to add new users to the system’s database.
-
-9 : user must allow to put hold on a room if any  room is not available at the moment.
-
-10 :   user must allow the guardian to cancel the registration from the system’s database who will leave room.
 
 
