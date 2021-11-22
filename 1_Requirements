@@ -1,1 +1,58 @@
+# Requirements
+## Introduction
+The usual practices in accommodating students at  Lagos  State  University,  as  well  as  other universities,  involve  students  going  to  the Students’  Affairs  office  to  fill  out  a  form  for registration. Thereafter,  students are  registered for  the  new  session  by  providing  a  bank teller/receipt  of  payment  and  a  new  hostel accommodation  would  be  allocated  to  the student.  After  registration,  students’ profiles are transferred to  the  porter’s lodge  where  students will  receive  a  mattress,  pillow,  and  so  on. Unfortunately,  these processes  are carried  out manually  with  pen  and  papers;  an  unreliable procedure  which  is  associated  with inefficiencies.  The  process  of  hostel  registration  in  many universities  employs  a  parochial  system  that involves students going  to the Students’  Affairs Office to fill out a form for registration. This form seeks  to  find  out  details  of  the  student. Thereafter,  students  will  register  for  the  new session  by  providing  a  bank  teller  receipt  to show payment has been made and a new hostel would  be  allocated  to  the  student.  After registration,  students’  profiles  would  be transferred to  the  porter’s lodge  where  students will receive a mattress, pillow, chairs, and tables. Unfortunately,  these processes  are carried  out manually  with  pen  and  papers,  an  unreliable procedure which also wastes time.
+## Defining Our System
+Functional Requirements of HOSTEL MANAGEMENT SYSTEM Project (FYP)
+* user generate account number.
+* user allow the hostel staff members or guardians to scan’s the student’s id and access its profile.
+* user have permission of renewing the student’s registration every year.
+* user shall generate the users profile containing the following information  users account no, full name ,address, phone no & room no.
+* user will  change dues status in database according to dues paid or not.
+* user will allocate rooms to students according to the session or class.
+* user must  have the details of a mess of a student and stored in a database.
+* user must allow the warden to add new users to the system’s database.
+* user must allow to put hold on a room if any  room is not available at the moment.
+* user must allow the guardian to cancel the registration from the system’s database who will leave room.
+## SWOT ANALYSIS
+![SWOT-Sample](https://user-images.githubusercontent.com/94214701/142853404-d2f609f3-bef5-4018-a3e7-e4dab66d3685.png)
+## Who:
+
+**The customer or a public who faces the prolem of securing and transfering money from on remote area to another digitally**
+
+## What:
+
+**The problem in the real world is having paper money in homes may lead to theft and another main problem is sending money from one remote area to another is a challeging task manually**
+
+## When:
+
+**The problem was encountered when ever a customer have an bank account he or she should do the transactions only in bank timings manually**
+
+## Where:
+
+**The problem was first occured in the bank sight**
+
+## How:
+
+**The customers may be in number of counts without ATM in banks to do their transactions and the process would take more amount to do transactions.**
+
+# Detail requirements
+## High Level Requirements:
+|ID | Description | Status(Implemented/Future) |
+|:--:|:------------:|:---------------------------:|
+| 1 | A customer must be able to make a cash withdrawal from any suitable account linked to the card, Approval must be obtained from the bank before cash is dispensed.|Implemented |
+| 2 | A customer must be able to make a transfer of money between any two accounts linked to the card.| Implemented |
+| 3 | The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdraw or deposit, a second message will be sent after the transaction has been physically completed. | Future |
+| 4 | The ATM will provide the customer with a printed receipt for each successful transaction, showing the date, time, machine location, type of transaction, account(s), amount, and ending and available balance(s) of the affected account. | Future |
+
+
+
+
+##  Low level Requirements:
+| ID |  Description |  Status (Implemented/Future)|
+|:--:|:------------:|:---------------------------:|
+| 1  | Check balance is one of the module which is helpful to view the account balance using PIN number | Implemented |
+| 2  | Deposit is the module which describes depositing amount to the account by selecting the account number and value of amount to deposit | Implemented |
+| 3 | Withdraw is the module which describes withrawal of amount from the account using PIN number and entering value of amount the withrawal checks for the balance amount and value enetered to withdraw if value is greater than balance it displays an message insufficient amount to withdraw | Implemented |
+| 4 | Exit is an module which describes the exit of the system or current process| Implemenedt |
+
 
